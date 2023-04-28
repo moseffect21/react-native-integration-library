@@ -33,6 +33,6 @@ allprojects {
 
 dependencies {
     implementation("com.facebook.react:react-android")
-    implementation("com.github.evotor:integration-library:rc01-v0.4.32")
+    implementation("com.github.evotor:integration-library:v0.6.03")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version")
 }
